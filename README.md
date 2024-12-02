@@ -17,12 +17,20 @@ This repository is part of Python practice and learning. This aims to provide a 
 
 The is divided into several chapters, each focusing on different aspects of Python programming:
 
-- **Chapter 1: Modules, Comments & pip**
+- **Day 1: Modules, Comments & pip**
   - Writing the first Python program
   - Understanding modules
   - Using pip for package management
   - Using Python as a calculator
   - Comments in Python
+  - Python Syntax: Understanding the rules of writing Python code (e.g., indentation, case sensitivity).
+  - Basic Data Types:
+  - int: Integer numbers (e.g., 10).
+  - float: Decimal numbers (e.g., 3.14).
+  - str: Strings for text (e.g., "hello").
+  - bool: Boolean values (True, False).
+  - Variables: Assigning variable values (e.g., x = 10).
+
 - **Chapter 2: Variables and Data Types**
   - Defining variables
   - Different data types in Python
