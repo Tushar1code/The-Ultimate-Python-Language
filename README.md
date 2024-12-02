@@ -101,7 +101,7 @@ The is divided into several chapters, each focusing on different aspects of Pyth
 
 1. **Clone the repository** to your local machine using:
    ```sh
-   git clone https://github.com/Tushar1code/Python-practice.git
+   git clone https://github.com/Tushar1code/The-Ultimate-Python-Language.git
    ```
 2. **Navigate through the chapters** to find the relevant lessons and code examples.
 3. **Complete the problem sets** provided at the end of each chapter to solidify your understanding.
