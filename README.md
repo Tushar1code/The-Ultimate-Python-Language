@@ -35,7 +35,7 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - `if`, `else`, and `elif` statements
   - Relational and logical operators
   - Operators in Python
-  - Using `type()` function and typecasting
+  - Dwwp Dive into Operators
   - `input()` function
     
 - **Chapter 3: Strings**
