@@ -31,13 +31,13 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - bool: Boolean values (True, False).
   - Variables: Assigning variable values (e.g., x = 10).
 
-- **Chapter 2: Variables and Data Types**
-  - Defining variables
-  - Different data types in Python
-  - Rules for choosing an identifier
+- **Day 2: Conditional Expression**
+  - `if`, `else`, and `elif` statements
+  - Relational and logical operators
   - Operators in Python
   - Using `type()` function and typecasting
   - `input()` function
+    
 - **Chapter 3: Strings**
   - String slicing
   - Slicing with skip values
