@@ -38,11 +38,12 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Dwwp Dive into Operators
   - `input()` function
     
-- **Chapter 3: Strings**
-  - String slicing
-  - Slicing with skip values
-  - String functions
-  - Escape sequence characters
+- **Day 3: LOOPS**
+  - `while` loop
+  - `for` loop
+  - `range()` function
+  - `for` loop with `else`
+  - Break, continue, and pass statements
 - **Chapter 4: Lists and Tuples**
   - List indexing
   - List methods
