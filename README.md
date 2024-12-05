@@ -44,11 +44,13 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - `range()` function
   - `for` loop with `else`
   - Break, continue, and pass statements
-- **Chapter 4: Lists and Tuples**
-  - List indexing
-  - List methods
-  - Tuples in Python
-  - Tuple methods
+    
+- **Day 4: List And List Comprehension In Python**
+  - Created and accessed lists using indexing.
+  - Performed slicing and modifications on lists.
+  - Worked with nested lists and loops.
+  - Learned and implemented list comprehensions.
+  - Explored practical applications like data extraction and manipulation.
 - **Chapter 5: Dictionary & Sets**
   - Properties of dictionaries
   - Dictionary methods
