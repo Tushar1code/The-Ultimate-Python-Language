@@ -56,6 +56,11 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Dictionary methods
   - Sets in Python
   - Properties and operations on sets
+  - Created and explored Python sets.
+  - Performed set operations: union, intersection, difference, and symmetric difference.
+  - Removed duplicates from lists using sets.
+  - Understood set properties: unordered, mutable, and no duplicate elements.
+    
 - **Chapter 6: Conditional Expression**
   - `if`, `else`, and `elif` statements
   - Relational and logical operators
