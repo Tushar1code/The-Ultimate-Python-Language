@@ -51,7 +51,8 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Worked with nested lists and loops.
   - Learned and implemented list comprehensions.
   - Explored practical applications like data extraction and manipulation.
-- **Chapter 5: Dictionary & Sets**
+    
+- **Day 5: Dictionary & Sets**
   - Properties of dictionaries
   - Dictionary methods
   - Sets in Python
