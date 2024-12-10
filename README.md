@@ -77,9 +77,15 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Organizing Student Grades
   - Managing an Inventory
     
-- **Chapter 9: File I/O**
-  - Reading and writing files
-  - Working with directories
+- **Day 9: Functions in Python**
+  - Introduction to Functions
+  - Defining Functions
+  - Calling Functions
+  - Function Parameters
+  - Default Parameters
+  - Variable-Length Arguments
+  - Return Statement
+    
 - **Chapter 10: Object-Oriented Programming**
   - Classes and objects
   - Methods and attributes
