@@ -71,9 +71,12 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - `range()` function
   - `for` loop with `else`
   - Break, continue, and pass statements
-- **Chapter 8: Functions & Recursions**
-  - Defining and calling functions
-  - Recursion in Python
+
+- **Day 8: Real-World Examples Using Lists in Python**
+  - Manage a To-Do List
+  - Organizing Student Grades
+  - Managing an Inventory
+    
 - **Chapter 9: File I/O**
   - Reading and writing files
   - Working with directories
