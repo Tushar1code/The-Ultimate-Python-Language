@@ -86,7 +86,7 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Variable-Length Arguments
   - Return Statement
     
-- **Chapter 10: Object-Oriented Programming**
+- **Day 10: Functions in Python: Real-World Examples**
   - Temperature Conversion
   - Password Strength Checker
   - Shopping Cart Total
