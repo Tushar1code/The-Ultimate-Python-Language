@@ -87,8 +87,11 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Return Statement
     
 - **Chapter 10: Object-Oriented Programming**
-  - Classes and objects
-  - Methods and attributes
+  - Temperature Conversion
+  - Password Strength Checker
+  - Shopping Cart Total
+  - Palindrome Checker
+  - Factorial Calculation Using Recursion
 - **Chapter 11: Inheritance & More on OOPs**
   - Inheritance
   - Polymorphism
