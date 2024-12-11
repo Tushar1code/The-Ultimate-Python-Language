@@ -92,6 +92,7 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Shopping Cart Total
   - Palindrome Checker
   - Factorial Calculation Using Recursion
+    
 - **Chapter 11: Inheritance & More on OOPs**
   - Inheritance
   - Polymorphism
