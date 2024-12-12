@@ -94,11 +94,11 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Factorial Calculation Using Recursion
     
 - **Day 11: Lambda Functions in Python 🚀**
-- Introduction to Lambda Functions  
-- Practical Examples: Filtering, Mapping, and Sorting  
-- Comparisons with Regular Functions  
-- Real-world Use Cases
-- Simplifies writing small, anonymous functions.  
+  - Introduction to Lambda Functions  
+  - Practical Examples: Filtering, Mapping, and Sorting  
+  - Comparisons with Regular Functions  
+  - Real-world Use Cases
+  - Simplifies writing small, anonymous functions.  
 
 - **Chapter 12: Advanced Python 1**
   - Newly added features in Python
