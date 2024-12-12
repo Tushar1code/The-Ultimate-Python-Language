@@ -98,7 +98,10 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Practical Examples: Filtering, Mapping, and Sorting  
   - Comparisons with Regular Functions  
   - Real-world Use Cases
-  
+  ## Key Takeaways  
+  - Simplifies writing small, anonymous functions.  
+  - Ideal for tasks like sorting, filtering, and mapping data.  
+  - Reduces code clutter with concise, readable syntax.  
 
 - **Chapter 12: Advanced Python 1**
   - Newly added features in Python
