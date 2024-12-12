@@ -98,6 +98,7 @@ The is divided into several chapters, each focusing on different aspects of Pyth
 - Practical Examples: Filtering, Mapping, and Sorting  
 - Comparisons with Regular Functions  
 - Real-world Use Cases
+- Simplifies writing small, anonymous functions.  
 
 - **Chapter 12: Advanced Python 1**
   - Newly added features in Python
