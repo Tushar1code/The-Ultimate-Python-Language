@@ -93,7 +93,7 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Palindrome Checker
   - Factorial Calculation Using Recursion
     
-- **Chapter 11: Lambda Functions in Python 🚀**
+- **Day 11: Lambda Functions in Python 🚀**
 - Introduction to Lambda Functions  
 - Practical Examples: Filtering, Mapping, and Sorting  
 - Comparisons with Regular Functions  
