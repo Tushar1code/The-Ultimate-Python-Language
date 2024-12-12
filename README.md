@@ -93,10 +93,12 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Palindrome Checker
   - Factorial Calculation Using Recursion
     
-- **Chapter 11: Inheritance & More on OOPs**
-  - Inheritance
-  - Polymorphism
-  - Operator overloading
+- **Chapter 11: Lambda Functions in Python 🚀**
+- Introduction to Lambda Functions  
+- Practical Examples: Filtering, Mapping, and Sorting  
+- Comparisons with Regular Functions  
+- Real-world Use Cases
+
 - **Chapter 12: Advanced Python 1**
   - Newly added features in Python
   - Walrus operator
