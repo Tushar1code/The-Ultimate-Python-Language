@@ -103,12 +103,12 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Ideal for tasks like sorting, filtering, and mapping data.  
   - Reduces code clutter with concise, readable syntax.  
 
-- **Day 12: Advanced Python 1**
+- **Day 12: Mapsfunction**
   - Understanding the map() Function:
   - Examples of map() Usage
   - Real-World Applications
  
-- **Day 13: Advanced Python 2**
+- **Day 13: Filterfunction**
   - Understanding the filter() Function
   - Examples of filter() Usage
   - Real-World Use Cases
