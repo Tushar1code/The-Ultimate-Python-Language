@@ -104,19 +104,15 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Reduces code clutter with concise, readable syntax.  
 
 - **Chapter 12: Advanced Python 1**
-  - Newly added features in Python
-  - Walrus operator
-  - Advanced type hints
-  - Match case
-  - Dictionary merge & update operators
-  - Exception handling enhancements
-  - Global keyword and enumerate function
-  - List comprehensions
-- **Chapter 13: Advanced Python 2**
-  - Virtual environments
-  - Lambda functions
-  - String methods: `join` and `format`
-  - Functional programming: `map`, `filter`, and `reduce`
+  - Understanding the map() Function:
+  - Examples of map() Usage
+  - Real-World Applications
+ 
+- **Day 13: Advanced Python 2**
+  - Understanding the filter() Function
+  - Examples of filter() Usage
+  - Real-World Use Cases
+  
  
 ## Projects
 
