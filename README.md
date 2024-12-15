@@ -112,6 +112,14 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Understanding the filter() Function
   - Examples of filter() Usage
   - Real-World Use Cases
+
+- **Day 14: Advanced Python Functions**
+  - Higher-Order Functions: filter, map, and reduce.
+  - Lambda Functions: Write anonymous, concise functions.
+  ##Practical Use Cases:
+  - Filtering data using filter.
+  - Transforming lists with map.
+  - Aggregating results with reduce.
   
  
 ## Projects
