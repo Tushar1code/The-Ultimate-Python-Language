@@ -103,7 +103,7 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Ideal for tasks like sorting, filtering, and mapping data.  
   - Reduces code clutter with concise, readable syntax.  
 
-- **Day 12: Mapsfunction**
+- **Day 12: Maps function**
   - Understanding the map() Function:
   - Examples of map() Usage
   - Real-World Applications
@@ -117,8 +117,8 @@ The is divided into several chapters, each focusing on different aspects of Pyth
   - Higher-Order Functions: filter, map, and reduce.
   - Lambda Functions: Write anonymous, concise functions.
   ##Practical Use Cases:
-  - Filtering data using filter.
-  - Transforming lists with map.
+  - Filtering data using a filter.
+  - Transforming lists with maps.
   - Aggregating results with reduce.
   
  
@@ -131,7 +131,7 @@ The is divided into several chapters, each focusing on different aspects of Pyth
 - **Mega Project 1: Jarvis Virtual Assistant**
   - A voice assistant application capable of performing various tasks such as playing music, and providing information.
 - **Mega Project 2: AI AutoReply Bot**
-  - An AI-based bot designed to automatically reply to messages, enhancing communication efficiency.
+  - An AI-based bot designed to reply to messages, enhancing communication efficiency automatically.
 
 ## Additional Resources
 
