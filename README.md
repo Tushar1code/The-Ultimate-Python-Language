@@ -1,4 +1,4 @@
-# The Ultimate Python language
+# The Ultimate Python Programming language
 The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning. This will take you from a beginner to an advanced Python programmer.
 # Table of Contents
 - [The Ultimate Python Course](#the-ultimate-python-course)
