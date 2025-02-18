@@ -124,7 +124,7 @@ The is divided into several chapters, each focusing on different aspects of Pyth
 ## Projects
 
 - **Project 1: Snake Water Gun Game**
-  - A fun and interactive game where the player competes against the computer in a variation of Rock-Paper Scissors.
+  - An engaging and interactive game in which players compete against the computer in a variation of Rock-Paper-Scissors.
 - **Project 2: Guess The Number**
   - A guessing game where the player tries to guess a randomly generated number within a certain range.
 - **Mega Project 1: Jarvis Virtual Assistant**
