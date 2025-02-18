@@ -2,7 +2,6 @@
 The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning. This will take you from a beginner to an advanced Python programmer.
 # Table of Contents
 - [The Ultimate Python Course](#the-ultimate-python-course)
-  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Chapters](#chapters)
   - [Projects](#projects)
