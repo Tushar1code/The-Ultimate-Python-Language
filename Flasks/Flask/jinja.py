@@ -36,7 +36,9 @@ def success(score):
         result = "passed"
     else:
         result="failed"
-    return render_template('result.html',results = result)
+
+    exp = {'score':score,"res":result}
+    return render_template('result1.html',results = exp)
 
 
 if __name__ == "__main__":
